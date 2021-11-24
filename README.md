@@ -16,3 +16,5 @@
   - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackathon_DGTL2021.pdf)
 - EVRAZ AI CHALLENGE 2021 - Призеры
   - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackathon_EVRAZ_AI_CHALLENGE.pdf)
+- WildHack 2021 - Призеры
+  - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackathon_WildHack2021.pdf)
