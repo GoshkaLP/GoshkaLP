@@ -12,7 +12,7 @@
    - [Проект](https://github.com/GoshkaLP/volvo_hack_2021)
    - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackathon_Volvo_Cars_Digital_Challenge2021.pdf)
 - Лидеры Цифровой Трансформации 2021 - 5/68 место. 
-  - [Проект](https://github.com/GoshkaLP/moscow_geo_hack_2021)
+  - [Проект](https://github.com/IskhakovAL/moscow_geo_hack_2021)
   - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackathon_DGTL2021.pdf)
 - EVRAZ AI CHALLENGE 2021 - Призеры
   - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackathon_EVRAZ_AI_CHALLENGE.pdf)
