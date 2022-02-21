@@ -1,13 +1,10 @@
 ## Статистика профиля
 
-![GoshkaLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoshkaLP&hide=contribs,prs&theme=synthwave)
+![GoshkaLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoshkaLP&hide=prs&theme=synthwave&show_icons=1&count_private=1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoshkaLP&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Сертификаты за участие в хакатонах
-
-В данном репозитории представлены сертификаты за мои участия в различных хакатонах.  
-
 #### Список хакатонов, в которых я принял участие (с командой `dora.team`): 
 - Raiffeisen2020 - 5/60 место.
    - [Проект](https://github.com/GoshkaLP/raifhack2020)
