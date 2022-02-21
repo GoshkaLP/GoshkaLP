@@ -1,4 +1,10 @@
-# Сертификаты за участие в хакатонах
+## Статистика профиля
+
+![GoshkaLP's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoshkaLP&hide=contribs,prs&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoshkaLP&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Сертификаты за участие в хакатонах
 
 В данном репозитории представлены сертификаты за мои участия в различных хакатонах.  
 
