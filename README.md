@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoshkaLP&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Сертификаты за участие в хакатонах с командой `dorateam`
+## Участие в хакатонах с командой `dorateam`
 ### Победители
 - DataWagon 2023 - **1 место**
   - [Проект](https://github.com/IskhakovAL/DataWagon_2023)
