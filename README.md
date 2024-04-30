@@ -8,14 +8,14 @@
 ### Победители
 - DataWagon 2023 - **1 место**
   - [Проект](https://github.com/IskhakovAL/DataWagon_2023)
-  - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackaton_DataWagon2023.pdf)
+  - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackathon_DataWagon2023.pdf)
 - TravelHack 2024 - **3 место**
   - [Проект](https://github.com/IskhakovAL/TravelHack_2024)
   - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackathon_TravelHack2024.pdf)
 ### Призеры
 - VTB MORE.Tech5.0 2023
   - [Проект](https://github.com/GoshkaLP/moretech_dora2023)
-  - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackaton_MoreTech52023.pdf)
+  - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackathon_MoreTech52023.pdf)
 - WildHack 2021
   - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackathon_WildHack2021.pdf)
 - EVRAZ AI CHALLENGE 2021
