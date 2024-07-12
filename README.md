@@ -12,6 +12,9 @@
 - TravelHack 2024 - **3 место**
   - [Проект](https://github.com/IskhakovAL/TravelHack_2024)
   - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackathon_TravelHack2024.pdf)
+- Лидеры Цифровой Трансформации 2024 - **2 место**
+  - [Проект](https://github.com/GoshkaLP/lct4_dorateam24)
+  - [Сертификат](https://github.com/GoshkaLP/hackathon_certificates/blob/main/Hackaton_LCT4_2024.pdf)
 ### Призеры
 - VTB MORE.Tech5.0 2023
   - [Проект](https://github.com/GoshkaLP/moretech_dora2023)
